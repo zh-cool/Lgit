@@ -1,2 +1,1 @@
-# Lgit
 Learn git
