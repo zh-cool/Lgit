@@ -4,7 +4,7 @@
 #include <unistd.h>
 #include <pthread.h>
 #include <string.h>
-
+url = "https://sockboom.me/link/G03zDKGzwxgvt2WR?mu=1 https://www.xvideos.com/video50474269/_2019_";
 void* t_func(void* argv)
 {
         sigset_t sig;
