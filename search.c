@@ -83,6 +83,10 @@ int insert_sort(int data[], int p, int q)
         }
 }
 
+int search()
+{
+}
+
 int main(int argc, char **argv)
 {
         int data[] = {1,4,6,8,11,12,16};
